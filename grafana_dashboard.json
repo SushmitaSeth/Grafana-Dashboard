@@ -364,7 +364,7 @@
   },
   "timezone": "browser",
   "title": "Dapr-Perf-Runner",
-  "uid": "d9071c78-eaef-47c5-97e9-dca5e3fd473b",
+  "uid": "dpr-dashboard",
   "version": 13,
   "weekStart": ""
 }
